@@ -19,3 +19,10 @@ You can make sure that the pip is uo-to-date by running:
   <code> pip install -r requirements.txt --ignore-installed</code>
   
   Note: run cmd in that folder only in which the requirements.txt file is stored else the above command will not work.
+
+  
+  
+  
+  
+  #Discription
+  the basic desciption of the project is given in the Description file where you can understand and get an idea of what is happing in project step by step.

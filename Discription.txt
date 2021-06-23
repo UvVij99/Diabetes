@@ -1,0 +1,26 @@
+
+Diabetes
+This is a project for diabetes prediction of person based on the dataset provided.
+Dataset is taken from kaggle.com the for the dataset is
+ (" https://www.kaggle.com/mathchi/diabetes-data-set ")
+
+In this project we predicted whether the person is diabetic or not and based on that we trained our model, train and testing of model is done throughout the project.
+We did a Visualisation of our dataset and model.
+
+Firstly it is required to install all the libraries used in this project.
+To do that just install the packages as mentioned in readme file.
+
+>In this project first we loaded the dataset from csv file by pandas library.
+
+>Then we described our data. 
+
+>Then with the help of matplotlib and seaborn libraries we visualised our data.
+
+>Then we standardized our data with the help of sklearn packages commands such as “StandardScaler()”.
+
+>Then we trained our model using svm from sklearn library.
+
+>After training we evaluated our model to get the accuracy score.
+
+>And last we made a predictive system to predict whether the person is diabetic or not..
+
